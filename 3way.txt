@@ -1,4 +1,0 @@
-line1
-line2-modifiedinmain
-line2-modifiedin3way
-line3
